@@ -46,7 +46,7 @@ Feel free to explore the repository and check out some of the projects I've work
 - BS in Electrical Engineering, Universidad de Los Andes, Bogota, Colombia
 
 ## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) or explore my [Portfolio](https://www.yourportfoliosite.com) for more information.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anrange)
 
 ---
 This README is a brief overview of my experience and includes my GitHub repository showcasing side projects and hobby projects.
