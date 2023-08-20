@@ -1,6 +1,6 @@
 ```markdown
 # anrange
-[LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) | [Portfolio](https://www.yourportfoliosite.com) | [GitHub](https://github.com/yourgithubusername)
+[LinkedIn](https://www.linkedin.com/in/anrange) | [GitHub](https://github.com/anrange)
 
 ## Summary
 Accomplished visionary technology executive with over 20 years of experience leading software engineering teams, driving innovation, and delivering high-impact solutions. Strategic leader adept at building and scaling globally distributed teams. Strong advocate for excellence in dynamic environments, with a passion for embracing challenges and fostering growth and innovation.
